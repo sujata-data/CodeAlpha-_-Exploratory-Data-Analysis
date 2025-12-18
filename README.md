@@ -19,7 +19,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a real-wor
 - Jupyter Notebook
 
 ## 📂 Dataset
-- Source: Kaggle / Internship-provided dataset
+- Source: Kaggle(https://drive.google.com/file/d/1zu0Q7X5benGs73jfzqrNuc0fM1kcbrnq/view?usp=drive_link)
 - Type: Structured tabular data
 - Size: XXXX rows and XX columns
 
